@@ -11,19 +11,19 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/AndersonMarlonDesign"/></a>
 </p>  
 <p align="left"> 
-  Enthusiast of the technologies.
+  Desenvolvedor de Apps
 </p>
 
 <p align="left">
-  🦄 Dev: <strong>Front-end with Javascript</strong>
+  🦄 Dev: <strong>FRONT-END Javascript</strong>
 </p>
 
 <p align="left">
-  💼 Business: <strong>CEO at Aperture Laboratories | <br> Systems Development Analist at Cenário Capital</strong>
+  💼 Empresa: <strong> ©VeryPlus| <br> </strong>
 </p>
 
 <p align="left">
-  💌 Allow yourself to evolve and absorb more knowledge, even against your will. - Y7K
+  💌 Eu amo programação HTML . - G7K
 </p>
 
 
